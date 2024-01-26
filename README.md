@@ -1,1 +1,1 @@
-FilmFlix is a landing page build based on HTML & Bootstrap and CSS for the styling.
+FilmFlix is a landing page built based on HTML, BOOTSTRAP and CSS for the styling.
